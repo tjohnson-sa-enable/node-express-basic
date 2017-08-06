@@ -7,5 +7,14 @@
   "test": {
     "driver": "pg",
     "filename": ":memory:"
+  },
+
+  "pg": {
+    "driver": "pg",
+    "user": "test",
+    "password": "test",
+    "host": "localhost",
+    "database": "codeship",
+    "schema": "my_schema"
   }
 }
