@@ -1,6 +1,6 @@
 # Codeship Pro NodeJS Express Example
 
-[ ![Codeship Status for codeship-library/nodejs-express-todoapp](https://app.codeship.com/projects/a0b6ad70-ec6f-0134-81d5-1ac2cf405306/status?branch=master)](https://app.codeship.com/projects/208313)
+[ ![Codeship Status for hiimtaylorjones/nodejs-express-todoapp](https://app.codeship.com/projects/a0b6ad70-ec6f-0134-81d5-1ac2cf405306/status?branch=master)](https://app.codeship.com/projects/208313)
 
 ## Overview
 The following repository is a `todo` API example developed with NodeJS and the Express framework.
