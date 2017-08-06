@@ -14,7 +14,7 @@
     "user": "test",
     "password": "test",
     "host": "localhost",
-    "database": "mydb",
+    "database": "codeship",
     "schema": "my_schema"
   },
 
