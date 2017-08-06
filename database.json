@@ -1,0 +1,22 @@
+{
+  "dev": {
+    "driver": "pg",
+    "filename": "~/dev.db"
+  },
+
+  "test": {
+    "driver": "pg",
+    "filename": ":memory:"
+  },
+
+  "pg": {
+    "driver": "pg",
+    "user": "test",
+    "password": "test",
+    "host": "localhost",
+    "database": "mydb",
+    "schema": "my_schema"
+  },
+
+  "other": "postgres://uname:pw@server.com/dbname"
+}
