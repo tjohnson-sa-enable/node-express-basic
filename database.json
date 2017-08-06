@@ -1,16 +1,16 @@
 {
   "dev": {
     "driver": "pg",
-    "user": "development",
-    "password": "development",
+    "user": "postgres",
+    "password": "postgres",
     "host": "localhost",
     "database": "codeship_development"
   },
 
   "test": {
     "driver": "pg",
-    "user": "test",
-    "password": "test",
+    "user": "postgres",
+    "password": "postgres",
     "host": "localhost",
     "database": "codeship_test"
   }
