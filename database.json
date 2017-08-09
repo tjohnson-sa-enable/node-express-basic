@@ -1,3 +1,5 @@
 {
-  "other": "postgres://todoapp@postgres/todos"
+  "defaultEnv": { "ENV": "NODE_ENV" },
+  "dev": {"ENV": "DATABASE_URL"},
+  "test": {"ENV": "DATABASE_URL"}
 }
